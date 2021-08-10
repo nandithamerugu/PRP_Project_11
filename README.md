@@ -1,5 +1,5 @@
 # PRP_Project_11
-## Soruce_Coding
+## Source_Coding
 - source_code.m represents script of the source code.
 - encoding.m represents encoding function that encodes source text file.
 - decoding.m represents decoding function that decodes encoded text file.
